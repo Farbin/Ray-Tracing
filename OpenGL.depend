@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1548510359 source:e:\studies\4-2\computer graphics sessional\offline 4\my code\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 e:\studies\4-2\computer graphics sessional\offline 4\my code\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710763 e:\studies\4-2\computer graphics sessional\offline 4\my code\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1548927730 source:h:\studies (a little)\computer graphics sessional\offline 4\my code\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 h:\studies (a little)\computer graphics sessional\offline 4\my code\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710764 h:\studies (a little)\computer graphics sessional\offline 4\my code\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1548927894 source:h:\my code\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 h:\my code\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710764 h:\my code\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1549793373 source:e:\studies\4-2\computer graphics sessional\offline 4\part 2\my code\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<vector>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 e:\studies\4-2\computer graphics sessional\offline 4\part 2\my code\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710764 e:\studies\4-2\computer graphics sessional\offline 4\part 2\my code\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
