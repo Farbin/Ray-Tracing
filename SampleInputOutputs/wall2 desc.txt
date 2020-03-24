@@ -1,0 +1,111 @@
+1 1000 45 2
+
+3
+500
+
+40
+0.1 0.3 0.4
+
+5
+
+sphere
+10 0 25
+25
+.4 .05 .15
+0.3 0.7 0 0
+20
+
+sphere
+-120 0 50
+10
+.4 .05 .15
+0.3 0.7 0 0
+20
+
+sphere
+-40 -50 40
+12
+.4 .05 .15
+0.3 0.7 0 0
+30
+
+
+sphere
+60 -10 40
+8
+.4 .05 .15
+0.3 0.7 0 0
+30
+
+
+sphere
+-100 300 10
+10
+.4 .05 .15
+0.3 0.7 0 0
+30
+
+
+1
+0 0 100.0 0.00002
+
+5
+60 -10 100 0.00002
+60 -10 25
+20
+
+-100 300 100 0.00002
+-100 300 25
+20
+
+
+10 0 100 0.00002
+10 0 25
+20
+
+-40 -50 100 0.00002
+-40 -50 15
+20
+
+-120 0 100 0.00002
+-120 0 0
+20
+
+
+
+input explanation:
+1 1000 			distances of near and far planes
+80 				field of vision along y axis
+1 				aspectratio
+
+3 				level of recursion
+768 			number of pixels along both axes
+
+50				width of each chell of the checkerboard
+0.1 0.1 0.8		ambient, diffuse, reflection coefficient of the infinite checkerboard (no specular for it)
+
+3 				number of objects
+
+sphere
+20.0 20.0 20.0 		center
+20.0 				radius
+1.0 1.0 0.0 		color
+0.04 0.03 0.03 0.9 	ambient diffuse specular reflection coefficient
+30 					shininess
+
+pyramid
+-40.0 0.0 5.0    	lowest point co-ordinate
+30.0 40.0        	width height
+1.0 0.0 0.0      	color
+0.4 0.2 0.0 0.4  	ambient diffuse specular reflection coefficient
+1		 			shininess
+
+
+
+1							# of normal light sources
+70.0 70.0 100.0 0.000002	position of the source, falloff parameter
+
+1							# of spot-light sources
+-70.0 70.0 70.0 0.0000002	position of the source, falloff parameter
+-10 10 10					point to which it is looking
+30							cutoff angle in degrees
